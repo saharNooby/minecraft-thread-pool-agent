@@ -23,7 +23,7 @@ This agent does not (hopefully) affect in-game performance and does not try to i
 
 It is currently not known to me what are impilcations of delaying or completely disabling DataFixers Type rewrite. However, I did not notice any problems in multiplayer. Singleplayer was not tested at all, expecially opening and converting old worlds (the ultimate goal of creating DataFixers library).
 
-I didn't check all usages of Main executor, and potentially reduding its thread count may be bad for ingame performance.
+I didn't check all usages of Main executor, and potentially reducing its thread count may be bad for ingame performance.
 
 ## Usage
 
